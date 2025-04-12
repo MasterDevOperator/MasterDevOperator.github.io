@@ -1,3 +1,0 @@
-# First AI post
-
-*Welcome*
