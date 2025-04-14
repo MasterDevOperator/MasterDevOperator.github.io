@@ -13,8 +13,7 @@ A **fully connected neural network**, also known as a **dense neural network**, 
 - **Input layer**: e.g., an image flattened into a 1D vector (e.g., 32×32×3 = 3072 pixels for RGB images)
 - **Hidden layers**: each node applies a weight and bias, followed by an activation function
 - **Output layer**: for classification, this might have 10 nodes for 10 classes
-- 
-[CNN Layers Visualization](images/Neural_NET.jpg)
 
+![](/images/Neural_NET.jpg "fast.ai's logo")
 
 
