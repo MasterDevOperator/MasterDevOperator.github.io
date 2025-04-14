@@ -14,7 +14,7 @@ A **fully connected neural network**, also known as a **dense neural network**, 
 - **Hidden layers**: each node applies a weight and bias, followed by an activation function
 - **Output layer**: for classification, this might have 10 nodes for 10 classes
 - 
-[CNN Layers Visualization](../images/Neural_NET.png)
+[CNN Layers Visualization](images/Neural_NET.jpg)
 
 
 
