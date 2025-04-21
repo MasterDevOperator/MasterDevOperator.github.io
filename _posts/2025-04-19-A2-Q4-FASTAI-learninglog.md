@@ -51,7 +51,7 @@ Using the GPU Frozen dev container, This only took a few seconds per epoch.
 ## Model Evaluation
 
 ### Confusion Matrix
-The confusion matrix helped identify where the model confused certain classes. For example, most misclassifications were between bird/dog or airplane/automobile.
+The confusion matrix helped me identify where the model confused certain classes. For example, most misclassifications were between bird/dog or airplane/automobile.
 
 ### t-SNE Visualization
 I used `TSNE` to reduce the high-dimensional output vectors into 2D for visualization:
