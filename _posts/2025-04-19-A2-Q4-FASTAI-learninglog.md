@@ -34,7 +34,6 @@ dls = DataBlock(
 
 This gave me a clean and efficient interface for image loading and augmentation.
 
----
 
 ## Training with ResNet18
 
